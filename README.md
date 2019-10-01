@@ -6,4 +6,4 @@
    3. the run the Main Class
 
 Have fun playing our broken Game!<br/>
-   for real tho, it doesn't work.
+PS: for real tho, it doesn't work.
