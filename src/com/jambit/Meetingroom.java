@@ -79,8 +79,7 @@ public class Meetingroom {
                 if (kallim.isCherry()) {
                     System.out.println("Yuhuuuu hier ist Cherry");
 
-                }
-                else {
+                } else {
                     kal.chooceARoom();
                 }
 

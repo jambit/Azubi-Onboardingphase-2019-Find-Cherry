@@ -71,19 +71,24 @@ public class Blueprints {
 
         System.out.println("NOT YET IMPLEMENTED");
     }
-    public void printBiang(){
+
+    public void printBiang() {
         System.out.println("NOT YET IMPLEMENTED");
     }
-    public void printDeli(){
+
+    public void printDeli() {
         System.out.println("NOT YET IMPLEMENTED");
     }
-    public void printKalimantan(){
+
+    public void printKalimantan() {
         System.out.println("NOT YET IMPLEMENTED");
     }
-    public void printToko(){
+
+    public void printToko() {
         System.out.println("NOT YET IMPLEMENTED");
     }
-    public void printDT(){
+
+    public void printDT() {
         System.out.println("NOT YET IMPLEMENTED");
     }
 }

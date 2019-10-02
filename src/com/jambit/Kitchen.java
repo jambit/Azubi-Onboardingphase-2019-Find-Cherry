@@ -1,9 +1,8 @@
 package com.jambit;
 
 
-
 public class Kitchen {
-    public void java(){
+    public void java() {
         Clearing bridge = new Clearing();
         Rooms bridge2 = new Rooms();
         bridge.clear();
